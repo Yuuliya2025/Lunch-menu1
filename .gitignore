@@ -36,3 +36,7 @@ bin/
 
 # Игнорируем все .iml файлы
 *.iml
+.idea/.gitignore
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/vcs.xml
